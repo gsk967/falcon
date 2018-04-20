@@ -14,7 +14,7 @@ $ sudo pip install --upgrade virtualenv
   $ git clone https://github.com/gsk967/falcon.git falcon_project
   $ cd falcon_project
   $ virtualenv .venv
-  $ pip install requirements.txt
+  $ pip install -r requirements.txt
 ```
 
 ## How to run this project 
